@@ -10,7 +10,7 @@
     "cli"
   ],
   "author": "SD",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.1",
     "figlet": "^1.5.0",
@@ -18,5 +18,6 @@
     "node-fetch": "^2.6.1",
     "prompt": "^1.1.0",
     "readline": "^1.3.0"
-  }
+  },
+  "bin": "main.js"
 }
